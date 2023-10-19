@@ -25,8 +25,7 @@ Hello! I'm Natalia, a passionate developer with experience in a variety of techn
 
 
 ### ✍️ Reminder
-<div style="text-align:center"> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) </div>
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=ailahtan&icon=0&color=0)](https://visitcount.itsvg.in)
 
